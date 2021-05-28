@@ -1,0 +1,14 @@
+.about {
+ background-image: url("./im2.png");
+ background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: blue;
+}
+.welcome-about{
+    color: red;
+}
+
+.inner-text {
+    color: green;
+}
